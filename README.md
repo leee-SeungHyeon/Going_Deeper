@@ -8,4 +8,4 @@
 |2|뉴스 기사 다중 분류기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_02%5D_News_Classification.ipynb)|
 |3|임베딩의 편향성(Weat Score)|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_03%5D_Embedding%20WEAT.ipynb)|
 |4|Seq2Seq를 통한 번역기 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_04%5D_seq2seq%20translate.ipynb)|
-|5|Transformer를 통한 번역기 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_04%5D_seq2seq%20translate.ipynb)|
+|5|Transformer를 통한 번역기 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_05%5D_transformer%20translate.ipynb)|
