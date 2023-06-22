@@ -10,4 +10,5 @@
 |4|Seq2Seq를 통한 번역기 만들기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_04%5D_seq2seq%20translate.ipynb)|
 |5|Transformer를 통한 번역기 만들기|:star::star::star:|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_05%5D_transformer%20translate.ipynb)|
 |6|Transformer 챗봇 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_06%5D_Transformer_Chatbot.ipynb)|
-|7|Pretrained Mini BERT 만들기|미평가|-|
+|7|Pretrained Mini BERT 만들기|미평가|[Link](https://github.com/leee-SeungHyeon/Going_Deeper/blob/main/%5BGN_07%5D_Pretrained_Mini_BERT.ipynb)|
+
